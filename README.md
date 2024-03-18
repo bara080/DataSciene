@@ -25,7 +25,8 @@ To run this script, ensure you have the required libraries installed and execute
 
 
 
-<img width="644" alt="Screenshot 2024-03-17 at 18 46 57" src="https://github.com/bara080/DataSciene/assets/122848219/0e14ac05-25ec-494a-aac3-5cb3fbf09639">
+![test](https://github.com/bara080/DataSciene/assets/122848219/3d3abab5-f6d1-493b-a27f-777505f7c52b)
+
 
 
 
