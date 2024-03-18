@@ -19,9 +19,9 @@ This Python script demonstrates how to perform linear regression on the Iris dat
 
 To run this script, ensure you have the required libraries installed and execute the code in a Python environment. The Iris dataset will be loaded, and linear regression will be performed to predict the petal width based on the petal length. The resulting plots will display the regression lines for both the training and test data.
 
+![Training](https://github.com/bara080/DataSciene/assets/122848219/74e04eb2-cbe5-40b2-ba07-5256682c44f0)
 
 
-<img width="644" alt="Screenshot 2024-03-17 at 18 16 08" src="https://github.com/bara080/DataSciene/assets/122848219/d9054555-8209-4540-a8c1-851d9e55ecf8">
 
 
 
